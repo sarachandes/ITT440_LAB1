@@ -5,6 +5,7 @@ int main(void)
 
 printf("Hello World !");
 printf("I Love C");
+printf("Adding new line");
 
 return(0);
 }
